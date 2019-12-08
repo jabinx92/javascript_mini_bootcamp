@@ -7,6 +7,7 @@ Before getting started, make sure that you have a JavaScript console open (like 
 ### Basic Requirements
 
 //hello terry
+//some changes
 
 1. In your console, copy the following function and verify
    that the following invocations match your expectations:
